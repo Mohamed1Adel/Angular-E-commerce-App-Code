@@ -1,0 +1,14 @@
+.card-img{
+    width:150px;
+    height: 145px;
+    margin-bottom:15px;
+}
+
+
+.card-img-actions{
+    position: relative;
+}
+a{
+    text-decoration: none;
+}
+
